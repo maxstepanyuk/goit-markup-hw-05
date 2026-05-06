@@ -232,13 +232,13 @@ address {
 
 .principles-icon-wrapper {
     height: 112px;
-    
+
     display: flex;
     align-items: center;
     justify-content: center;
 
     margin-bottom: 8px;
-    
+
     background-color: #f4f4fd;
     border: 1px solid #8e8f99;
     border-radius: 4px;
@@ -322,7 +322,7 @@ address {
     background-color: #404bbf;
 }
 
-.social-link{
+.social-link {
     fill: #f4f4fd;
 }
 
